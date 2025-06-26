@@ -1,22 +1,22 @@
-# 💹 Stock Trading Web App (CS50 Final Project)
+# Stock Trading Web App (CS50 Final Project)
 
 This is a Flask-based web application that simulates stock trading. It was developed as the final project for Harvard's CS50x course and demonstrates backend development principles such as user authentication, API integration, database transactions, and templating.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 User registration and login with password hashing
-- 📈 Real-time stock quote lookup via external API
-- 💰 Buying and selling stocks with available balance
-- 📊 Live portfolio tracking with dynamic updates
-- 🧾 Transaction history (buy/sell logs)
-- 🚫 Input validation and error handling
-- 🔐 Secure session management via Flask-Session
-
+-  User registration and login with password hashing
+-  Real-time stock quote lookup via external API
+-  Buying and selling stocks with available balance
+-  Live portfolio tracking with dynamic updates
+-  Transaction history (buy/sell logs)
+-  Input validation and error handling
+-  Secure session management via Flask-Session
+  
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - **Flask** (web framework)
@@ -28,7 +28,7 @@ This is a Flask-based web application that simulates stock trading. It was devel
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 cs50-stock-trading-app/
